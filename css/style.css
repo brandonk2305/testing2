@@ -1,0 +1,107 @@
+body {
+    background: -webkit-linear-gradient(to bottom right, #6A82FB, #FC5C7D);
+    background: linear-gradient(to right, #6A82FB, #FC5C7D);
+    background: #FFB6C1;
+
+}
+
+.content {
+    display: flex;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.125em;
+    margin: 0 0 10px 0;
+    color: #00527e;
+
+}
+
+h3 {
+    color: #7932ff;
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.headHR {
+    border: 1px solid black;
+}
+
+.newsHR {
+    border: 0.02em solid black;
+    display: inline;
+}
+
+h4 {
+    margin-top: 4em;
+}
+
+.head {
+    border: solid black;
+    border-width: 2px 0 0 0;
+    display: inline-block;
+    height: 20px;
+}
+
+.box {
+    width: 25em;
+    border: solid black;
+    border-width: .3em 0 0 0;
+    margin: 0;
+    padding: 0;
+}
+
+.newsTXT {
+    margin: 0;
+    text-align: justify;
+}
+
+.sectionTitle {
+    margin-bottom: .5em;
+    text-align: center;
+    margin-top: 2em;
+
+}
+
+.newsSect {
+    width: 25em;
+    /*position: relative;*/
+    /*left: 50%;*/
+    /*transform: translateX(-50%);*/
+    text-align: justify;
+}
+
+.news {
+    text-align: justify;
+}
+
+.question {
+    display: inline-block;
+}
+
+#sub {
+    margin-top: 1em;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.formS {
+    height: 14.6em;
+}
+
+.frms {
+    position: relative;
+    left: 5em;
+}
+
+.contact {
+    font-family: "Apple Casual", serif;
+    font-size: 1.5em;
+    position: relative;
+    top: 10px;
+    left: 7em;
+}
